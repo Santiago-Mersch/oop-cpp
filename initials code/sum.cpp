@@ -9,6 +9,6 @@ int main (){
     cout << "Introduce another number : " <<endl;
     cin >> number2;
     result = number1 + number2;
-    cout << "The sum is :"<<result;
+    cout << "The sum is :  "<< result;
 
 }
